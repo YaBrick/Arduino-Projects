@@ -1,2 +1,2 @@
-Some of my projects
+Old project for my 9'th grade school competition
 
