@@ -11,6 +11,8 @@ Does not include, as VENICS/YBP/VENICS-TETRIX-PRIZM/VENICS-V1/VENICS-V1.ino does
 
 YBP/OMNI_BITE.ino - testing of I2C connection
 
+YBP/documentation - all the information about the project (in Russian)
+
 Photos:
 <p align="center"><img src="photos/venics-1.jpg" height="400" alt="" /></p>
 <p align="center"><img src="photos/venics-2.jpg" height="400" alt="" /></p>
