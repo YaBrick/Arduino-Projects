@@ -10,4 +10,8 @@ Does not include, as VENICS/YBP/VENICS-TETRIX-PRIZM/VENICS-V1/VENICS-V1.ino does
 - Reading from onboard sonar modules and moving by their values
 
 Photos:
-<p align="center"><img src="photos/venics-1.jpg" height="250" alt="" /></p>
+<p align="center"><img src="photos/venics-1.jpg" height="400" alt="" /></p>
+<p align="center"><img src="photos/venics-2.jpg" height="400" alt="" /></p>
+<p align="center"><img src="photos/venics-3.jpg" height="400" alt="" /></p>
+<p align="center"><img src="photos/venics-4.jpg" height="400" alt="" /></p>
+
