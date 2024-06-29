@@ -8,6 +8,8 @@ YBP/main-remotexy.ino - main file of the system, which includes:
 
 Does not include, as VENICS/YBP/VENICS-TETRIX-PRIZM/VENICS-V1/VENICS-V1.ino does:
 - Reading from onboard sonar modules and moving by their values
+- 
+YBP/OMNI_BITE.ino - testinf of I2C connection
 
 Photos:
 <p align="center"><img src="photos/venics-1.jpg" height="400" alt="" /></p>
